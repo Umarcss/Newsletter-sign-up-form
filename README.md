@@ -132,10 +132,6 @@ Areas I'd like to continue focusing on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
-- LinkedIn - [Your Name](https://www.linkedin.com/in/yourprofile)
-
----
+- Frontend Mentor - [@Umarcss](https://www.frontendmentor.io/profile/Umarcss)
 
 **Note**: This project was completed as part of the Frontend Mentor challenges to improve front-end development skills.
